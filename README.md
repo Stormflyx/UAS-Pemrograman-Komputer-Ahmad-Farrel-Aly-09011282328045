@@ -4,5 +4,5 @@
 # Tempat, Tanggal Lahir : Palembang, 18 Februari 2005
 # Kampus: Universitas Sriwijaya
 # Fakultas : Ilmu Komputer
-# Jurusan : Sistem Komputer
+# Jurusan : Sistem Komputerl
 # Ujian : Ujian Akhir Semester Pemrograman Komputer
